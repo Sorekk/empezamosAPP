@@ -19,7 +19,7 @@ public class Principal extends Activity {
 		getMenuInflater().inflate(R.menu.principal, menu);
 		return true;
 	}
-
+//HOLA COMMINT
 	@Override
 	public boolean onOptionsItemSelected(MenuItem item) {
 		// Handle action bar item clicks here. The action bar will
